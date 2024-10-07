@@ -1,6 +1,6 @@
 # Created by https://www.toptal.com/developers/gitignore/api/visualstudiocode,xcode,c++,macos
 # Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode,xcode,c++,macos
-
+build
 ### C++ ###
 # Prerequisites
 *.d
